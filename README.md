@@ -1,1 +1,1 @@
-# Customer-Segmentation-of-Instacart-s-Customers
+# Customer-Segmentation-of-Instacart-Customers
